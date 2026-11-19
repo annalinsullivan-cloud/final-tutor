@@ -1,0 +1,11 @@
+[data-theme'corprate'] {
+  --color-green: #78BC61;
+  --color-lightgreen: #C0C781;
+  --color-sand: #E6C1A0;
+  --color-red: #E9806E;
+  --color-yellow: #F5EDC7;
+}
+
+h1 {
+  --color-green
+}
